@@ -1,0 +1,1 @@
+web: gunicorn gmeetLinkcomp.wsgi --log-file--
